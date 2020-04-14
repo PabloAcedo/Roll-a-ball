@@ -1,2 +1,4 @@
 # Roll-a-ball
-Lab1_InteractiveSystems
+Interactive Systems UPF
+
+This repository contains the Unity project of the Homework: Roll a ball tutorial, by Pablo Acedo.
